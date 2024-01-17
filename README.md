@@ -1,9 +1,6 @@
-# PECD
+# PVC Detection
 
-
-
-## Getting started
-**EN:**
+## EN:
 This project is deployed at: catarina1414.pythonanywhere.com
 
 If you wish to run the code on your machine, you should:
@@ -11,7 +8,7 @@ If you wish to run the code on your machine, you should:
 *  Install the libraries listed in the "requirements.txt" file.
 *   Run the "app.py" file located in the "Code" folder.
 
-**PT:**
+## PT:
 Este projeto encontra-se com o deploy em: catarina1414.pythonanywhere.com
 
 Caso deseje correr o código na sua máquina deve :
