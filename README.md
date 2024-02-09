@@ -1,7 +1,7 @@
 # PVC Detection
 
 ## EN:
-This project is deployed at: catarina1414.pythonanywhere.com
+This project is deployed at: [pvcdetect.catarinapimenta.pt](http://pvcdetect.catarinapimenta.pt/)
 
 If you wish to run the code on your machine, you should:
 * Clone the project to your machine.
@@ -9,7 +9,7 @@ If you wish to run the code on your machine, you should:
 *   Run the "app.py" file located in the "Code" folder.
 
 ## PT:
-Este projeto encontra-se com o deploy em: catarina1414.pythonanywhere.com
+Este projeto encontra-se com o deploy em: [pvcdetect.catarinapimenta.pt](http://pvcdetect.catarinapimenta.pt/)
 
 Caso deseje correr o código na sua máquina deve :
 * Fazer clone do projeto na sua máquina;
